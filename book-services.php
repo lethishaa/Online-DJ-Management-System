@@ -197,7 +197,7 @@ foreach($result2 as $row)
 				 </div>
 				 <div class="col-md-6 contact-right">
 					 	<div class="contact-map">
-						<img src="images/dj1.jpg" class="img-responsive" height="900" width="500" alt=""/>
+						<img src="images/dj3.jpg" class="img-responsive" height="900" width="500" alt=""/>
 						</div>
 				 </div>
 				 <div class="clearfix"></div>
